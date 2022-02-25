@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <h1 align="center">Mario Maze </h1>
+  <h1 align="center">Mario Maze Game</h1>
   <p align="center">
     React/Material-ui
     <a href="https://github.com/johnchristotle/maze-eating-game.git"><strong>Explore the docs »</strong></a>

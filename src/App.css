@@ -1,0 +1,42 @@
+.root {
+  margin: auto;
+  width: 80%;
+  border: 5px solid #474040;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  min-height: 250px;
+  min-width: 350px;
+}
+
+.cell {
+  height: calc(10vh);
+  width: calc(10vh);
+  cursor: pointer;
+  background-color: #dde1e9 !important;
+}
+
+.user-form {
+  float: right;
+}
+
+.plain {
+  display: none;
+}
+
+.man {
+  display: block;
+  height: 90%;
+  width: 90%;
+  background: url(./icons/eating.png);
+  background-size: 100% 100%;
+  margin: auto;
+}
+
+.food {
+  display: block;
+  height: 80%;
+  width: 80%;
+  margin: auto;
+  background: url(./icons/hamburger.png);
+  background-size: 100% 100%;
+}

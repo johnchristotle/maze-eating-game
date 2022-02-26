@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <h1 align="center">Mario Maze </h1>
+  <h1 align="center">Mario Maze Game</h1>
   <p align="center">
     React/Material-ui
     <a href="https://github.com/johnchristotle/maze-eating-game.git"><strong>Explore the docs »</strong></a>
@@ -48,17 +48,17 @@ In this project, the complete feature of the app renders the following:
 
 To play use the arrow keys.
 
-- <img src="./screenshot/keys.png" alt="screenshot3"/>
+- <img src="./screenshot/keys.png" alt="keys"/>
 
 ## Screenshots
 
 #### Home
 
-<img src="./screenshot/entry.jpeg" alt="screenshot1"/>
+<img src="./screenshot/entry.jpeg" alt="empty-board"/>
 
 #### Play Board
 
-<img src="./screenshot/entry2.jpeg" alt="screenshot1"/>
+<img src="./screenshot/entry2.jpeg" alt="game-on"/>
 
 ## Prerequisites Installations
 
@@ -114,7 +114,7 @@ To view this project live on Gitpod, follow these steps:
 
 ## Author
 
-Christotle Agholor
+Christotle Agholor (c) 2022
 
 - [GitHub profile](https://github.com/johnchristotle)
 

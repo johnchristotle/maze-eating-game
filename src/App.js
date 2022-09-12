@@ -258,7 +258,7 @@ function App() {
               <div>
                 <p>Game Over!!!!</p>
                 <p>Add board dimensions to play</p>
-                <p>Yours Scores: {moves}</p>
+                <p>It took you: {moves} moves!</p>
               </div>
             ) : (
               <p>Game in progress</p>
